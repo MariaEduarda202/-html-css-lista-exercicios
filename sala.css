@@ -1,0 +1,16 @@
+body{background-color: pink;
+}
+h1{
+text-shadow: red;}
+img{ border-style: hidden;
+
+  width: 400px;
+     border-radius: 40px;
+ 
+}
+div{border-style: solid;
+    color: orange;
+background-color: white;}
+p{ color: black;}
+footer{border-style: hidden; color: orange;
+background-color: white;}
